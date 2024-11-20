@@ -17,14 +17,26 @@ I am a caffeinated wannabe web dev on a sugar rush!
 - sunshine 
 
 ### Objectives as a web dev: 
+- land a job and change carreer
+- making websites and stuff 
+- challenge myself
 
 ### Fears 
+- I've got too much to catch up to 
+- Right now: git that doesn"t commit my stuff 
+- no coffee or little snacks
 
 ### Things I'm looking forward: 
+- This stuff to be commited
+- And my little gif to actually be displayed instead of that ugly url 
+- Next little snack
 
 ### Three things I value most as a team : 
+- shared knowledge and help (thank you guys ;)
+- motivation
+- whoever made the coffee
 
 ### Favorite GIF: 
-!(https://media1.tenor.com/m/gTg8ZSZMR6YAAAAd/scaler-create-impact.gif)
+![merightnow](https://media1.tenor.com/m/gTg8ZSZMR6YAAAAd/scaler-create-impact.gif)
 
 
