@@ -1,46 +1,41 @@
-# THIS IS EMIIIIIIII
+# THIS IS ELISE
 
-## And I'm trying to understand stuff
+## And I know everything there is to learn.
 
-I am a caffeinated wannabe web dev on a sugar rush!
+I'm a famous baker and a respected street fighter 
 
-***
 
 ### List of my most surprising skills: 
-- lack of inspo 1
-- lack of inspo 2
-- maybe inspo will come 3
+- I can break a skull with my teeths
+- I can bake some brownies with my hands
+- I can kill someone with a rolling pin 
 
 ### Things I like most: 
-- my little coffees 
-- my little snacks
-- sunshine 
+- my fighting gloves
+- my flaour
+- being the queen of the street
 
-### Objectives as a web dev: 
-- land a job and change carreer
-- making websites and stuff 
-- challenge myself
+### Objectives as a fighter and baker: 
+- being on a win streak
+- make 389 pies in one day 
+- eat 389 pies in one day
 
 ### Fears 
-- I've got too much to catch up to 
-- Right now: git that doesn"t commit my stuff 
-- no coffee or little snacks
+- I
+- Eat
+- Fear
 
 ### Things I'm looking forward: 
-- This stuff to be commited
-- And my little gif to actually be displayed instead of that ugly url 
-- Next little snack
+- Bullying my opponents
+- Create my own gang
+- Improve my croissants (currently they're too buttery)
 
 ### Three things I value most as a team : 
-- shared knowledge and help (thank you guys ;)
-- motivation
-- whoever made the coffee
+- always be there for homies in trouble
+- never snitch
+- never overbake 
 
 ### Favorite GIF: 
-![merightnow](https://media1.tenor.com/m/gTg8ZSZMR6YAAAAd/scaler-create-impact.gif)
-
-### Hello Emi. (Fred's comment)
-
-### Hello Emi. (Jaad's comment)
+![baking](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVmcWI0ajJuODJiNXowamhmYmwwZ3FsNW02eWgzdzZ3dzBsNXgwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QunhUCJwnTzWxC5mtz/giphy.gif)
 
 
